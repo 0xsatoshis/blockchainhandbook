@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65644a21-8a74-44fc-a402-343c4d74c0f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/imgs/hash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/tree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="423">
-                <caret line="123" column="29" selection-start-line="123" selection-start-column="29" selection-end-line="123" selection-end-column="29" />
+              <first_editor relative-caret-position="59">
+                <caret line="70" column="18" lean-forward="true" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -57,6 +60,11 @@
               <item name="blockchainhandbook" type="b2602c69:ProjectViewProjectNode" />
               <item name="blockchainhandbook" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="blockchainhandbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blockchainhandbook" type="462c0819:PsiDirectoryNode" />
+              <item name="imgs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -73,6 +81,11 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imgs" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -96,12 +109,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574329477570</updated>
-      <workItem from="1574329479036" duration="313000" />
+      <workItem from="1574329479036" duration="1624000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="313000" />
+    <option name="totallyTimeSpent" value="1624000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="29" width="1280" height="724" extended-state="6" />
@@ -149,11 +162,14 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/imgs/hash.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="423">
-            <caret line="123" column="29" selection-start-line="123" selection-start-column="29" selection-end-line="123" selection-end-column="29" />
+          <first_editor relative-caret-position="59">
+            <caret line="70" column="18" lean-forward="true" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
