@@ -353,17 +353,117 @@
 
 ## 主要区块链系统
 ###    1. 比特币
+比特币（Bitcoin）的概念最初由中本聪在2008年11月1日提出，并于2009年1月3日正式诞生。根据中本聪的思路设计发布的开源软件以及建构其上的P2P网络。比特币是一种P2P形式的虚拟的加密数字货币。点对点的传输意味着一个去中心化的支付系统。
+
+与所有的货币不同，比特币不依靠特定货币机构发行，它依据特定算法，通过大量的计算产生，比特币经济使用整个P2P网络中众多节点构成的分布式数据库来确认并记录所有的交易行为，并使用密码学的设计来确保货币流通各个环节安全性。P2P的去中心化特性与算法本身可以确保无法通过大量制造比特币来人为操控币值。基于密码学的设计可以使比特币只能被真实的拥有者转移或支付。这同样确保了货币所有权与流通交易的匿名性。比特币与其他虚拟货币最大的不同，是其总数量非常有限，具有极强的稀缺性。
+
+[比特币官网](https://bitcoin.org/)
+
+白皮书:[比特币:一种点对点的电子现金系统](http://blockchainhandbooks.com/file/比特币白皮书.pdf)
+
+[Wiki](https://en.bitcoin.it/wiki/Main_Page)   
+
+[开发者](https://bitcoin.org/en/bitcoin-for-developers)
+
+[区块链浏览器](https://blockexplorer.com/)
+
+
 ###    2. 以太坊
+
+以太坊（英文Ethereum）是一个开源的有智能合约功能的公共区块链平台，通过其专用加密货币以太币（Ether，简称“ETH”）提供去中心化的以太虚拟机（Ethereum Virtual Machine）来处理点对点合约。
+
+以太坊的概念首次在2013至2014年间由程序员Vitalik Buterin受比特币启发后提出，大意为“下一代加密货币与去中心化应用平台”，在2014年通过ICO众筹开始得以发展。
+
+[以太坊官网](https://ethereum.org/)
+
+白皮书:[以太坊(Ethereum):下一代智能合约和去中心化应用平台](http://blockchainhandbooks.com/file/以太坊白皮书（中文）.pdf)
+
+[Wiki](https://github.com/ethereum/wiki/wiki)
+
+[JSON-RPC](https://github.com/ethereum/wiki/wiki/JSON-RPC)
+
+[区块链浏览器](https://etherscan.io/)
+
 ###    3. EOS
+
+EOS：EOS可以理解为Enterprise Operation System，即为商用分布式应用设计的一款区块链操作系统。EOS是EOS软件引入的一种新的区块链架构，旨在实现分布式应用的性能扩展。注意，它并不是像比特币和以太坊那样是货币，而是基于EOS软件项目之上发布的代币，被称为区块链3.0。
+
+EOS的主要特点如下：
+
+* 1).EOS有点类似于微软的windows平台，通过创建一个对开发者友好的区块链底层平台，支持多个应用同时运行，为开发dAPP提供底层的模板。
+
+* 2).EOS通过并行链和DPOS的方式解决了延迟和数据吞吐量的难题，EOS是每秒可以上千级别的处理量，而比特币每秒7笔左右，以太坊是每秒30-40笔；
+
+* 3).EOS是没有手续费的，普通受众群体更广泛。EOS上开发dApp，需要用到的网络和计算资源是按照开发者拥有的EOS的比例分配的。当你拥有了EOS的话，就相当于拥有了计算机资源，随着DAPP的开发，你可以将手里的EOS租赁给别人使用，单从这一点来说EOS也具有广泛的价值。简单来说，就是你拥有了EOS，就相当于拥有了一套房租给别人收房租，或者说拥有了一块地租给别人建房。
+
+[官网](https://eos.io/)
+
+白皮书：[EOS.IO 技术白皮书](http://blockchainhandbooks.com/file/EOS白皮书-中文版.pdf)
+
+[github](https://github.com/EOSIO)
+
 ###    4. HyperLedger Fabric
+
+Hyperledger Fabric是Linux基金会所主导的Hyperledger（超级账本）的项目之一。Hyperledger Fabric旨在作为开发模块化体系结构的区块链应用程序的基础，以便诸如共识和会员服务等组件可以即插即用。它使用容器技术来托管构成系统应用逻辑的智能合约（也称为链代码）。 简而言之，Hyperledger Fabric是为企业构建的领先的开源、通用区块链结构。
+
+Hyperledger超级账本此前我们科普过，它是一个开源商业联盟链项目，目的是帮助企业更容易地建立企业级区块链解决方案。目前已经有超过250家企业、组织加入，其中既包括IBM、Intel、百度、华为等IT巨头，也包括荷兰银行、埃森哲、澳新银行等金融机构。
+
+Hyperledger Fabric作为超级账本的项目之一，目前基于它开发的区块链项目非常多。不过需要注意的是，Hyperledger Fabric是一个联盟链开发平台，与时下流行的以太坊、EOS等公链平台有较大的不同。Hyperledger Fabric的中心化程度更高，并且链只限于联盟内的成员使用，但Hyperledger Fabric相对容易达到更高的性能。
+
+[官网](https://www.hyperledger.org/projects/fabric)
+
+白皮书：[HyperLedger白皮书](http://blockchainhandbooks.com/file/超级账本Hyperledger白皮书（中文版）.pdf)
+
+[开发者](https://hyperledger-fabric.readthedocs.io/en/latest/whatis.html)
+
+[中文文档](https://hyperledgercn.github.io/hyperledgerDocs/)
+
 ###    5. 其他
-####        1. EOS Force
-####        2. Bytom
-####        3. NEO
-####        4. QTUM
-####        5. GXChain
+####        1. NEO
+
+小蚁币(NEO)是国内首个开源公有链项目和智能资产平台。简单来说，NEO=数字资产+智能合约+数字身份，可用于股权众筹、股权交易、债权转让、供应链金融等领域，也有人称“中国以太坊”
+
+小蚁币(NEO)的主要特点如下：
+
+* 1).小蚁币(NEO)基于区块链技术，将现实中的资产转化为数字资产，在小蚁币(NEO)上缴纳一定的小蚁币即可登记交易流转资产；
+
+* 2).资产流转通过电子合同，出让方和接收方各自以私钥进行电子签名，这样就解决了目前区块链领域中代币化所产生的法律风险；
+
+* 3).在资产撮合方面提出了超导交易，所有的订单和撮合都在小蚁区块链第二层进行，整个过程都是用户和用户直接接触，一个去中心化交易所就此诞生 [1]  。
+
+[官网](https://neo.org/)
+
+####        2. QTUM
+
+量子链是一个开源的社区，可以通过价值传输协议(Value Transfer Protocol)来实现点对点的价值转移，并根据此协议，构建一个支持多个行业(金融、物联网、供应链、社交游戏等)的去中心化的应用开发平台(DAPP Platform)。
+
+量子链致力于开发兼容比特币和以太坊的全新生态系统，并且以行业应用为导向，通过移动端 DApp 开发策略，把区块链的技术优势带给不同行业的应用者和普通互联网用户。
+
+另外量子链更加注重智能合约的实际应用，将通过完善的 Oracle 和 Identity 模块的设计，并加入了数据馈送（DataFeeds）机制，使得传统互联网企业（金融、物联网等）应用区块链技术时满足相关合规性的要求。
+
+[官网](https://qtum.org/zh)
+
+####        3. EOS Force
+
+> **EOS原力（EOSC）介绍**
+
+EOS 原力（EOSC）是全球首个 EOS 分叉主网，在原来 EOS 的基础上做了许多优化和改进，特别是开创了投票抵押可获得分红的 Staking 模式和一票一投下完全社区自决策的治理模式。EOS 原力已经走出了自己独立的发展路线，不但提出多链架构，为开发者提供一键启链工具，同时还在进行跨链协议开发，打造多链生态。
+
+> **EOS与EOS原力**
+
+EOS是基于EOSIO启动的主网，EOS原力（EOSC）是为了解决EOSIO中存在的问题，基于不同的治理理念，对EOSIO进行选举机制优化和大量的技术改进后，在创世高度1启动了EOSC主网，是全球首个EOS分叉主网。
+
+> **EOS原力（EOSC）共识机制**
+
+EOSC沿用了EOSIO的共识机制, 即DPOS BFT Pipeline Consensus, 与EOSIO不同, EOS原力（EOSC）没有采用EOSIO每0.5秒一个区块, 一个节点连出6个块的模式, EOSC中每3秒一个区块, 节点不会连续出块, 虽然节点连续出块可以降低未打包交易的等待时间, 但是由于当前网络环境往往并不十分理想, 快速出块会影响链的稳定, 造成大量的微分叉. 
+
+[官网](https://www.eosforce.io/#/cn)
+
+####        4. Bytom
+比原链（Bytom）是一种多样性比特资产的区块链交互协议，运行在比原链上的不同类型资产（收益权、非上市股权、债权、数字货币等）可以通过该协议进行交换、对赌和基于智能合约的复杂性交互操作。
+
+[官网](https://bytom.io/zh/)
 ####        6. BAT
-####        7. R3 CEV、R3 ChinaLedger
 
 ## 区块链技术
 ###    1. 共识算法

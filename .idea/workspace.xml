@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65644a21-8a74-44fc-a402-343c4d74c0f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/file/EOS白皮书-中文版.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -20,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="385">
-                <caret line="677" lean-forward="true" selection-start-line="677" selection-end-line="677" />
+              <first_editor relative-caret-position="-82">
+                <caret line="445" selection-start-line="445" selection-end-line="445" />
               </first_editor>
               <second_editor />
             </state>
@@ -68,6 +69,11 @@
               <item name="blockchainhandbook" type="b2602c69:ProjectViewProjectNode" />
               <item name="blockchainhandbook" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="blockchainhandbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blockchainhandbook" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -87,6 +93,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/file" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/imgs" />
     </key>
@@ -113,12 +120,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574329477570</updated>
-      <workItem from="1574329479036" duration="16341000" />
+      <workItem from="1574329479036" duration="19900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16341000" />
+    <option name="totallyTimeSpent" value="19900000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -191,8 +198,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="385">
-            <caret line="677" lean-forward="true" selection-start-line="677" selection-end-line="677" />
+          <first_editor relative-caret-position="-82">
+            <caret line="445" selection-start-line="445" selection-end-line="445" />
           </first_editor>
           <second_editor />
         </state>
