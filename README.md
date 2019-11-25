@@ -798,9 +798,17 @@ ERC-721标准规定了符合它这种标准的每个Token都有唯一的Token ID
 
 [胡成武]() 非主流程序员、区块链技术与应用践行者、房产投资人。
 
-目前就职于[国金公链软件系统（北京）有限公司](https://www.goschain.cn/)，负责线下实体产业对接国金公链体系。
+前腾讯攻城狮、连续创业者、目前就职于[国金公链软件系统（北京）有限公司](https://www.goschain.cn/)，主要负责线下实体产业对接国金公链体系。
 
 邮箱：colinhu@163.com
+
+### 读书成长
+
+新开的一个Github项目，作者的读书笔记，与本文同步更新中。[点我直达](http://ploverchain.com/)
+
+### 公众号
+
+**[每日一拾](http://mp.weixin.qq.com/mp/homepage?__biz=MjM5NDI0Mjk3NQ==&hid=1&sn=02cfdbf1aea0998e553e28bfced2e458&scene=126&subscene=0&clicktime=1574674288#wechat_redirect)** 是作者之前维护的一个个人公众号，已经很久没写了，可以查看作者的一些历史文章。
 
 ## 鸣谢
 
