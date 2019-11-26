@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65644a21-8a74-44fc-a402-343c4d74c0f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <first_editor relative-caret-position="245">
+                <caret line="804" lean-forward="true" selection-start-line="804" selection-end-line="804" />
               </first_editor>
               <second_editor />
             </state>
@@ -30,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
+            <state relative-caret-position="340">
               <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
             </state>
           </provider>
@@ -50,7 +51,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="139" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="730" />
   </component>
@@ -59,7 +60,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -72,15 +72,11 @@
               <item name="blockchainhandbook" type="462c0819:PsiDirectoryNode" />
               <item name="file" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="blockchainhandbook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blockchainhandbook" type="462c0819:PsiDirectoryNode" />
-              <item name="imgs" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,12 +121,14 @@
       <workItem from="1574329479036" duration="22149000" />
       <workItem from="1574590556017" duration="1388000" />
       <workItem from="1574673751485" duration="3368000" />
-      <workItem from="1574692565538" duration="552000" />
+      <workItem from="1574692565538" duration="667000" />
+      <workItem from="1574746278510" duration="3409000" />
+      <workItem from="1574752320541" duration="3812000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27457000" />
+    <option name="totallyTimeSpent" value="34793000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -142,7 +140,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="139" width="1280" height="730" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="730" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15806195" />
@@ -191,20 +189,20 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/favicon.ico" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <first_editor relative-caret-position="245">
+            <caret line="804" lean-forward="true" selection-start-line="804" selection-end-line="804" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
         </state>
       </provider>
     </entry>
