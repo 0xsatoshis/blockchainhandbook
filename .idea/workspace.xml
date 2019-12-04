@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65644a21-8a74-44fc-a402-343c4d74c0f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/file/区块链溯源解决方案.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -20,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="206">
-                <caret line="974" column="3" lean-forward="true" selection-start-line="974" selection-start-column="3" selection-end-line="974" selection-end-column="3" />
+              <first_editor relative-caret-position="362">
+                <caret line="1055" lean-forward="true" selection-start-line="1055" selection-end-line="1055" />
               </first_editor>
               <second_editor />
             </state>
@@ -96,8 +97,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/imgs" />
       <recent name="$PROJECT_DIR$/file" />
+      <recent name="$PROJECT_DIR$/imgs" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -129,12 +130,12 @@
       <workItem from="1574692565538" duration="667000" />
       <workItem from="1574746278510" duration="3409000" />
       <workItem from="1574752320541" duration="9391000" />
-      <workItem from="1575338522964" duration="2243000" />
+      <workItem from="1575338522964" duration="5294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42615000" />
+    <option name="totallyTimeSpent" value="45666000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -149,7 +150,7 @@
     <frame x="0" y="23" width="1280" height="730" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1223193" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17712471" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -198,8 +199,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="206">
-            <caret line="974" column="3" lean-forward="true" selection-start-line="974" selection-start-column="3" selection-end-line="974" selection-end-column="3" />
+          <first_editor relative-caret-position="362">
+            <caret line="1055" lean-forward="true" selection-start-line="1055" selection-end-line="1055" />
           </first_editor>
           <second_editor />
         </state>
