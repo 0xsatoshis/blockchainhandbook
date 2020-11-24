@@ -1096,14 +1096,16 @@ BTC-Relay是号称的史上第一个侧链，BTC-Relay是通过以太坊构建�
 新开的一个Github项目，作者的读书笔记，与本文同步更新中。[点我直达](http://ploverchain.com/)
 
 ### 7.2 视频号
-> `娱记小斑马`
+> `每日一拾`
 > 简介：分享一些好玩、新鲜、有趣的影视、音乐、综艺，为生活减减压。
 
-![娱记小斑马](imgs/yjxbm.jpeg)
+![每日一拾](imgs/mrys.jpeg)
 
 ### 7.3 公众号
+> **[每日一拾](http://mp.weixin.qq.com/mp/homepage?__biz=MjM5NDI0Mjk3NQ==&hid=4&sn=a49dfc95653430013e759d1266d361df&scene=18#wechat_redirect)**
+> 简介：一枚在职场待了十一年的互联网老兵，目前的自由职业者，记录自己在互联网、房产投资、证券套利等领域的学习与思考。
 
-**[每日一拾](http://mp.weixin.qq.com/mp/homepage?__biz=MjM5NDI0Mjk3NQ==&hid=1&sn=02cfdbf1aea0998e553e28bfced2e458&scene=126&subscene=0&clicktime=1574674288#wechat_redirect)** 是作者之前维护的一个个人公众号，已经很久没写了，可以查看作者的一些历史文章。
+![每日一拾](imgs/mrysgzh.jpeg)
 
 ## 8 鸣谢
 
