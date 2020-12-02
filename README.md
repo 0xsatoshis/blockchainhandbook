@@ -469,6 +469,8 @@ EOSC沿用了EOSIO的共识机制, 即DPOS BFT Pipeline Consensus, 与EOSIO不�
 
 [阿里区块链](https://www.aliyun.com/product/baas)
 
+[蚂蚁区块链](https://antchain.antgroup.com/)
+
 [百度区块链](https://xchain.baidu.com/)
 
 [京东区块链](https://blockchain.jd.com/)
