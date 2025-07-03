@@ -1,6 +1,6 @@
 # 区块链技术与应用小白书
 
-[胡成武](https://github.com/Colinhuu)（著）&copy; 2019
+[0xsatoshis](https://github.com/0xsatoshis)（著）&copy; 2019
 
 > `如果不能遇见你，让我遇见更好的自己。`
 
